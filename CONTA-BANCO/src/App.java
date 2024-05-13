@@ -10,7 +10,7 @@ public class App {
             scanner.nextLine();
             String agencia = scanner.nextLine();
 
-            System.out.println("por favor, digite o nome do cliente:");
+            System.out.println("por favor, digite seu nome completo:");
             String nomeCliente = scanner.nextLine();
 
             System.out.println("por favor, digite o saldo:");
